@@ -1,0 +1,11 @@
+Prefix the table name with an indicator of the staging layer, such as STG_ (Staging), RAW_ (Raw/Landing), or LND_ (Landing). This clearly communicates the table's purpose as a transitional area.
+Example: RAW_SALESFORCE_ACCOUNTS
+
+Include a short code or name for the source system followed by the name of the source table the staging table is derived from. This maintains a clear lineage back to the origin of the data.
+Example: RAW_SFDC_CUSTOMER (where SFDC is Salesforce) or in dbt models: stg_<source>_<table>;
+
+Use the singular form for the entity the table represents, as is often a best practice in data modeling. For staging tables, this often mirrors the original source table name.
+Example: STG_ERP_PRODUCT (instead of STG_ERP_PRODUCTS)
+
+If the table is only needed for a short-term process or batch load and can be safely dropped afterward, you might include a TMP_ prefix (e.g., TMP_STG_...) or configure the table as TRANSIENT to convey its limited lifespan and use case.
+Example: TMP_STG_DAILY_ORDERS_LOAD

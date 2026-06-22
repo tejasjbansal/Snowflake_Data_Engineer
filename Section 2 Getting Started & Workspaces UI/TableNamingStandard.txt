@@ -1,0 +1,9 @@
+Rule 1: Length of the table name should be 30 or less
+
+Rule 2:Use all UPPERCASE letters with words seperated by underscores when createing table DDL(e.g SALES_DATA)
+
+Rule 3:Start the table name with concise ,consitent prefix identyfing the business domain*eg hr_employees, hr_salaries)
+
+Rule 4:Only use letters,Numbers and underscrores(_) Strictl;y avoid spaces, hypnes (-),slashes(/) or any punctuation.
+
+Rule 5:Use customer instead of customers, and transcation instead of transactions.Using plurals is not allowed

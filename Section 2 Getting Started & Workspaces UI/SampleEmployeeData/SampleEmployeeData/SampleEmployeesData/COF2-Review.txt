@@ -1,0 +1,19 @@
+Thank you for taking the time to share your thoughts. I completely understand how Snowflake’s terminology can sometimes feel counterintuitive — especially around the distinction between data sharing and data transfer.
+This particular question is intentionally aligned with the phrasing and logic used in the official SnowPro Core Certification. In that context, when two Snowflake accounts are in the same region and data needs to be “easily transferred,” the correct method is Secure Data Sharing. While it’s true that no physical data movement occurs, the exam and Snowflake documentation treat this as the supported mechanism for “transferring” data access between accounts.
+The question is designed to test whether learners can identify that cloning does not work across accounts, and that data sharing is the correct approach, exactly as reflected in Snowflake’s official learning objectives and certification materials.
+
+The questions in this practice test are intentionally designed to mirror the style, rigor, and depth of the actual SnowPro Certification exam.The real exam often includes scenarios that can seem confusing and require precise interpretation of Snowflake’s architecture and terminology. 
+These practice questions are designed to reflect that same level of challenge to help learners build genuine exam readiness.
+
+Please check this Linkedin Post from Subhamay Bhattachary which was posted 6 days ago in which he publicly thanks me for my "excellent Udemy course" using which he was able to clear the SnowPro Certification Exam
+
+https://www.linkedin.com/posts/subhamay-bhattacharyya_snowpro-core-certification-subhamay-bhattacharyya-activity-7382951824871301121-JLZK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFCGEQBFhLnFAGKUJRvUeLg0PwHGJC2RUE
+The reason I post this is to help understand that students are using my practice test to clear the SnowPro Cert exam in the 1st attempt.
+I would encourage you to return back to the test and keep working through it with an open mind, to get the best chance @ success
+
+
+Thank you for taking the time to share your feedback. I understand that you find the questions on this practice exam to be unintelligible and confusing.The practice tests are intentionally designed to closely mimic the challenging and often nuanced wording found in the official certification exam.The difficulty you experienced is, unfortunately, a reflection of the actual exam's rigorous nature, which tests a deep, practical understanding of the core concepts.Other students who have been using the practice tests have reported that they found the tests to be useful and helped them clear the exam. Please check this Linkedin Post from Subhamay Bhattachary which was posted 6 days ago in which he publicly thanks me for my "excellent Udemy course" using which he was able to clear the SnowPro Certification Exam
+
+https://www.linkedin.com/posts/subhamay-bhattacharyya_snowpro-core-certification-subhamay-bhattacharyya-activity-7382951824871301121-JLZK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFCGEQBFhLnFAGKUJRvUeLg0PwHGJC2RUE
+
+I would encourage you to return back to the test and keep working through it with an open mind, to get the best chance @ success

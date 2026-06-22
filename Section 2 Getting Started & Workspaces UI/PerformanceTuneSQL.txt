@@ -1,0 +1,5 @@
+snow://workspace/USER$.PUBLIC.LEARN_WORKSPACES/versions/head/SampleEmployeesData/departments-part01.csv
+
+snow://workspace/USER$.PUBLIC.LEARN_WORKSPACES/versions/head/temp.sql
+
+
